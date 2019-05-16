@@ -23,7 +23,7 @@ itsdangerous==0.24
 meld3==1.0.2
 mysql==0.0.1
 qiniu==7.1.4
-requests==2.2.1
+requests>=2.20.0
 six==1.5.2
 ssh-import-id==3.21
 supervisor==3.3.2

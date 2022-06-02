@@ -18,7 +18,7 @@ click==6.7
 colorama==0.2.5
 dominate==2.3.1
 gunicorn==19.7.1
-html5lib==0.999
+html5lib==0.99999999
 itsdangerous==0.24
 meld3==1.0.2
 mysql==0.0.1
